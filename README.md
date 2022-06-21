@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I've been a **full-stack developer** and **UI designer** since 2019 and have worked on multiple portfolio projects for myself, as well as for clients ranging from small technology start-ups to nationwide commercial businesses.
 
-⚡ Most of my repo contributions are private due to some NDAs and other confidentiality agreements, but all my projects can be discussed freely upon request, if you're into that sort of thing.
-
 <h3>Projects</h3>
 
 - **Gazetteer**, a geographical index and dictionary web app
