@@ -26,7 +26,7 @@ I've been a **full-stack developer** and **UI designer** since 2019 and have wor
 - **Gazetteer**, a geographical index and dictionary web app
 - **Company directory**, a company personnal MySQL database application
 - **Business website redesign**, a from-the-ground-up renovation of a nationwide business website, including a store locator, multi-page menu, job application mailing system and job application management database, filtering solution and back-end for complete C.R.U.D. maintenance
-- **Front-end website** for a technology startup company, A production of a company's design using logos, assets and wireframes created using Figma, management of files and resources, and involvement in project version control
+- **Front-end website development** for a technology startup company, A production of a company's design using logos, assets and wireframes created using Figma, management of files and resources, and involvement in project version control
 - <i>more to come in the future...</i>
 
 <h3>Technologies and skills</h3>
