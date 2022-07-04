@@ -35,6 +35,8 @@ Currently, I'm able to design, plan, implement, test and maintain a full applica
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
+  <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"/>
+  <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
@@ -48,11 +50,10 @@ Currently, I'm able to design, plan, implement, test and maintain a full applica
 I'll be expanding my skillset to include more advanced frameworks, libraries and other lanuages which include:
 
 <p>
-  <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"/>
+
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"/>
-  <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg"/>
 </p>
 
 <i>My main goal in life is to leave the world in a better way than I found it, in whatever way I can, and to create and design good products for as many people to see and experience as possible. I look forward to applying my skills to challenging and rewarding projects where my input can make a difference. </i>
