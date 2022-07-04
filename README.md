@@ -47,10 +47,9 @@ Currently, I'm able to design, plan, implement, test and maintain a full applica
 
 <h3>Goals</h3>
 
-I'll be expanding my skillset to include more advanced frameworks, libraries and other lanuages which include:
+I'll be planning to expand my skillset to include more advanced frameworks, libraries and other lanuages. Candidates of which include:
 
 <p>
-
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"/>
