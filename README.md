@@ -37,7 +37,6 @@ Currently, I'm able to design, plan, implement, test and maintain a full applica
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"/>
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg"/>
-  <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
   <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google.svg" />
