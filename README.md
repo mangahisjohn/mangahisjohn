@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I've been a **full-stack developer** and **UI designer** since early 2019 and have worked on multiple portfolio projects for myself, as well as for clients ranging from small technology start-ups to nationwide commercial businesses.
 
+I'm currently a software enginner at Adaro Optics, a SaaS, logistics and credit broker company.
+
 <h3>Projects</h3>
 
 - **Gazetteer**, a geographical index and dictionary web app
